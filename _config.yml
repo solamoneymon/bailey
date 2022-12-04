@@ -22,8 +22,8 @@ title: Macgyvers HVAC
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   HVAC Company especializing in boilers and mini split installs and service
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "solamoneymon.github.io/bailey" # the subpath of your site, e.g. /blog
+url: "solamoneymon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  solamoneymon
 
